@@ -10,6 +10,7 @@ module "cloudfront" {
   version = "1.0.0"
   # insert the 1 required variable here
 }
+
 <br>
 
 # Whats this module creates?
