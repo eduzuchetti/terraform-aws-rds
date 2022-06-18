@@ -1,12 +1,12 @@
 # Introduction 
 Module for create RDS Instances and Clusters
 
-The original repo is on GitLab! Check here [ezuchetti/terraform-aws-cloudfront](https://gitlab.com/ezuchetti/terraform-aws-cloudfront)
+The original repo is on GitLab! Check here [ezuchetti/terraform-aws-rds](https://gitlab.com/ezuchetti/terraform-aws-rds)
 
-Also check the module in de Teraform Registry: [eduzuchetti/cloudfront/aws](https://registry.terraform.io/modules/eduzuchetti/cloudfront/aws)
+Also check the module in de Teraform Registry: [eduzuchetti/rds/aws](https://registry.terraform.io/modules/eduzuchetti/rds/aws)
 
-module "cloudfront" {
-  source  = "eduzuchetti/cloudfront/aws"
+module "rds" {
+  source  = "eduzuchetti/rds/aws"
   version = "1.0.0"
   # insert the 1 required variable here
 }
