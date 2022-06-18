@@ -1,3 +1,10 @@
+## [1.0.0](https://gitlab.com/ezuchetti/terraform-aws-rds/compare/...1.0.0) (2022-06-18)
+
+
+### Features
+
+* **terraform:** Publish Module ([72a13b5](https://gitlab.com/ezuchetti/terraform-aws-rds/commit/72a13b53fe896c8c23a68bd8d06a98a0dd3f9880))
+
 ## [1.0.0](https://gitlab.com/ezuchetti/terraform-aws-cloudfront/compare/...1.0.0) (2022-02-11)
 
 
